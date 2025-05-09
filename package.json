@@ -33,7 +33,7 @@
     "amplitude"
   ],
   "main": "dist/index.js",
-  "name": "react-amplitude-hooks",
+  "name": "@ycmitch/react-amplitude-hooks",
   "peerDependencies": {
     "react": "^16.8.0 || ^17 || ^18"
   },
