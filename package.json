@@ -35,7 +35,7 @@
   "main": "dist/index.js",
   "name": "react-amplitude-hooks",
   "peerDependencies": {
-    "react": "^16.8.0 || ^17"
+    "react": "^16.8.0 || ^17 || ^18"
   },
   "scripts": {
     "build": "tsc",
@@ -51,5 +51,5 @@
     ]
   },
   "types": "dist/index.d.ts",
-  "version": "0.10.6"
+  "version": "0.10.7"
 }
